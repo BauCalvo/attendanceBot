@@ -8,7 +8,7 @@ Plugin de Moodle para asistencia automatica de Zoom con Attendance
 - Alternativamente, clonar el repositorio
 
 ```bash
-  git clone https://github.com/ORTZOOMOWNER/ZAS-202401-BE-B2
+  git clone https://github.com/BauCalvo/attendanceBot
   cd ZAS-202401-BE-B2
 ```
 - Correr el script incluido en el repositorio para zippear el plugin
